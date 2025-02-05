@@ -17,7 +17,7 @@ def on_release(key):
     try:
         release_time = time.time()
         data.append((str(key), release_time, "release"))
-        if key == keyboard.Key.esc:  # 按下 ESC 退出程序
+        if key == keyboard.Key.esc:  # press esc to exit the program
             return False
     except:
         pass
