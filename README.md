@@ -40,7 +40,7 @@
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jingyi-liu-a66baa341)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:oozingcuredmeat@protonmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/miyoku1226)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/miyoku_1226)
 
 ---
 
