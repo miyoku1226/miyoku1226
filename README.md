@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Leftist_Theory-%23D71A28.svg?style=for-the-badge">
 </p>
 
-
 ---
 
 ### 👁 About Me
