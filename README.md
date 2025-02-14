@@ -11,7 +11,7 @@
 
 ### 👁 About Me
 
-🔹 **Cybernetic Ruins** — Systems are contingent artifacts, security as différance, entropy as fate  
+🔹 **Cybernetic Ruins** — Systems are contingent artifacts, security as différance, entropy growth as fate  
 🔹 **Autonomy & Asymmetry** — Debian, bare-metal infrastructures, exit as ontological freedom  
 🔹 **Opacity & Disappearance** — Anonymity as strategic negation, encryption as Ereignis, surveillance as biopolitics  
 🔹 **Technics & Subjectivity** — Algorithmic governmentality, machinic enslavement, recursion as ideological closure  
