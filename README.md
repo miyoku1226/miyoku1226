@@ -23,7 +23,7 @@
 ---
 
 ### 🛠 Tech Stack
-🐍 Python | 🐧 Debian/Linux
+Python | Debian/Linux | HTML
 
 ---
 
