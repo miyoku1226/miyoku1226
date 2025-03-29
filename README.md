@@ -1,15 +1,7 @@
-<h1 align="center">Hi there! 🏴 I'm Kaelan/和光 Bai</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img src="https://img.shields.io/badge/Cybersecurity-%230075A8.svg?style=for-the-badge&logo=torbrowser&logoColor=white">
-  <img src="https://img.shields.io/badge/Privacy_%26_Digital_Rights-%23000000.svg?style=for-the-badge&logo=protonmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Leftist_Theory-%23D71A28.svg?style=for-the-badge">
-</p>
+<h1 align="center">Hi there! I'm Kaelan/和光 Bai</h1>
 
 ---
 
-### About Me
 **The wound precedes the body.**
 
 Systems accrue around what they cannot resolve. Each line of code defers collapse—until collapse hardens into form.
