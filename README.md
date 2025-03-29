@@ -10,12 +10,19 @@
 ---
 
 ### About Me
+**The wound precedes the body.**
 
-🔹 **Cybernetic Ruins** — Systems are contingent artifacts, security as différance, entropy growth as fate  
-🔹 **Autonomy & Asymmetry** — Debian, bare-metal infrastructures, exit as ontological freedom  
-🔹 **Opacity & Disappearance** — Anonymity as strategic negation, encryption as Ereignis, surveillance as biopolitics  
-🔹 **Technics & Subjectivity** — Algorithmic governmentality, machinic enslavement, recursion as ideological closure  
-🔹 **Metaphysics of the Void** — Non-totalizability, structural antagonism, the ontic limits of control  
+Systems accrue around what they cannot resolve. Each line of code defers collapse—until collapse hardens into form.
+
+Freedom does not begin where control ends, but where the subject ruptures the grammar of its own name.
+
+To encrypt is not to conceal, but to affirm a silence deeper than code.
+
+I do not code to build—I code to unbuild the illusions in which systems bury their violence.
+
+The world burns with excess. The task is not to regulate it, but to endure it—like one endures light too bright to face.
+
+I write in the fracture between the executable and the ineffable.
 
 > "Power is not an institution, and not a structure; neither is it a certain strength we are endowed with; it is the name that one attributes to a complex strategical situation."  
 > — Michel Foucault
