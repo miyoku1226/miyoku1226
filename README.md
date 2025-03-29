@@ -24,9 +24,6 @@ The world burns with excess. The task is not to regulate it, but to endure it—
 
 I write in the fracture between the executable and the ineffable.
 
-> "Power is not an institution, and not a structure; neither is it a certain strength we are endowed with; it is the name that one attributes to a complex strategical situation."  
-> — Michel Foucault
-
 ---
 
 ### Tech Stack
