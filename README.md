@@ -33,7 +33,9 @@ I write in the fracture between the executable and the ineffable.
 ### Featured Project
 -  **[Secure Keystroke Authentication](https://github.com/miyoku1226/secure-keystroke-auth)** - A keystroke authentication system that uses machine learning, specifically SVM, to analyze typing patterns such as key press duration, intervals, and bigram timing to distinguish users based on their unique typing behaviors.
   
--  **[AskAI-app](https://github.com/miyoku1226/AskAI-app)** - A lightweight, GPT-3.5-powered web tool for summarizing, translating, and analyzing text. Built with Flask, OpenAI API, and Bootstrap.
+-  **[AskAI app](https://github.com/miyoku1226/AskAI-app)** - A lightweight, GPT-3.5-powered web tool for summarizing, translating, and analyzing text. Built with Flask, OpenAI API, and Bootstrap.
+
+-  **[Purchase Bot Demo](https://github.com/miyoku1226/purchase-bot-demo)** - A Python-based automation bot that monitors a product page and sends Telegram alerts when stock is detected.
 
 ---
 
