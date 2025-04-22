@@ -45,7 +45,6 @@ I write in the fracture between the executable and the ineffable.
 ---
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jingyi-liu-a66baa341)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:oozingcuredmeat@proton.me)
 
 ---
